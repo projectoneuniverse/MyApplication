@@ -1,0 +1,1 @@
+package com.alphalearning.myapplication1.retrofit;import com.alphalearning.myapplication1.model.ResponseTV;import retrofit2.Call;import retrofit2.http.GET;import retrofit2.http.Query;public interface ApiService2 {    @GET("tv/popular")    Call<ResponseTV> ambilDataTV(            @Query("api_key") String apikey    );}

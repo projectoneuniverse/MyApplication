@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="director">Director</string>
+    <string name="status">Status</string>
+    <string name="original_language">Original Language</string>
+    <string name="runtime">Runtime</string>
+    <string name="overview">Overview</string>
+    <string name="tittle">tittle</string>
+    <string name="change_language_settings">change_language_settings</string>
+</resources>
